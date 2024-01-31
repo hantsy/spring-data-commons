@@ -1,0 +1,622 @@
+repo_name: hantsy/spring-data-commons
+report_id: 1f3bf949a11a386d0bacdcdc2d85fec3
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:20:40+00:00'
+requested_by: mp911de
+provider: github
+branch: main
+detected_tools_count: 50
+tools:
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  version: 2.4.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Oliver Gierke
+  last_updated_on: 2013-01-11 11:13:47.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons
+  detection_source: Repo Metadata
+- name: Project Reactor
+  description: Library for building non-blocking applications on JVM
+  website_url: https://projectreactor.io/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: QueryDSL
+  description: Unified queries for Java
+  website_url: http://www.querydsl.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/3881/da8da0c0e6dfbfc596f787ade49381a6_400x400.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Oliver Gierke
+  last_updated_on: 2015-05-22 15:27:00.000000000 Z
+- name: RxJava
+  description: Reactive Extensions for the JVM
+  website_url: https://github.com/ReactiveX/RxJava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2190/6407041.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2016-04-06 14:14:19.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-17 07:52:21.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Oliver Gierke
+  last_updated_on: 2014-04-22 12:20:54.000000000 Z
+- name: FindBugs
+  description: An open-source static code analyser
+  website_url: http://findbugs.sourceforge.net/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Thomas Risberg
+  last_updated_on: 2010-09-09 20:39:33.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/.github/workflows/project.yml
+  detection_source: ".github/workflows/project.yml"
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-01-20 13:50:10.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/src/test/resources/logback.xml
+  detection_source: src/test/resources/logback.xml
+  last_updated_by: Oliver Gierke
+  last_updated_on: 2012-11-13 18:04:19.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-06-17 06:46:56.000000000 Z
+- name: com.google.code.findbugs:jsr305
+  description: JSR305 Annotations for Findbugs
+  version: 3.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-06-17 06:46:56.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-06-17 06:46:56.000000000 Z
+- name: com.jayway.jsonpath:json-path
+  description: Java port of Stefan Goessner JsonPath
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-06-17 06:46:56.000000000 Z
+- name: com.querydsl:querydsl-apt
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-06-17 06:46:56.000000000 Z
+- name: com.querydsl:querydsl-core
+  description: Core module for querydsl
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-06-17 06:46:56.000000000 Z
+- name: com.sun.xml.bind:jaxb-impl
+  description: JAXB
+  version: 2.3.5
+  license: CDDL-1.1,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-06-17 06:46:56.000000000 Z
+- name: io.projectreactor:reactor-core
+  description: Non-Blocking Reactive Foundation for the JVM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: io.projectreactor:reactor-test
+  description: Reactor Test support
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: io.reactivex.rxjava2:rxjava
+  description: Reactive Extensions for Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: io.reactivex:rxjava
+  description: Rxjava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: io.reactivex:rxjava-reactive-streams
+  description: Adapter between RxJava and ReactiveStreams
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: io.vavr:vavr
+  description: Vavr
+  version: 0.10.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Jens Schauder
+  last_updated_on: 2021-08-11 17:09:06.000000000 Z
+- name: javax.annotation:javax.annotation-api
+  description: Common Annotations for the JavaTM Platform API
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: javax.ejb:ejb-api
+  description: Project GlassFish Enterprise JavaBean API
+  version: '3.0'
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2020-05-18 09:54:40.000000000 Z
+- name: javax.el:el-api
+  version: '1.0'
+  license: HaskellReport
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2020-05-18 09:54:40.000000000 Z
+- name: javax.enterprise:cdi-api
+  description: APIs for CDI
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2020-05-18 09:54:40.000000000 Z
+- name: javax.interceptor:javax.interceptor-api
+  description: Project GlassFish Interceptor API
+  version: 1.2.2
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Oliver Drotbohm
+  last_updated_on: 2021-02-26 10:30:52.000000000 Z
+- name: javax.servlet:javax.servlet-api
+  description: Java.net - The Source for Java Technology Collaboration
+  version: 4.0.1
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2020-05-18 09:54:40.000000000 Z
+- name: javax.transaction:javax.transaction-api
+  description: Project GlassFish Java Transaction API
+  version: '1.3'
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: joda-time:joda-time
+  description: Date and time library to replace JDK date handling
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Oliver Gierke
+  last_updated_on: 2013-02-06 16:49:24.000000000 Z
+- name: org.codehaus.groovy:groovy-all
+  description: 'Groovy: A powerful, dynamic language for the JVM'
+  version: 2.4.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-reflect
+  description: Kotlin Full Reflection Library
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib
+  description: Kotlin Standard Library for JVM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.jetbrains.kotlinx:kotlinx-coroutines-core
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: org.scala-lang:scala-library
+  description: Standard library for the Scala Programming Language
+  version: 2.11.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.springframework.hateoas:spring-hateoas
+  description: "Library to support implementing representations for \t\thyper-text
+    driven REST web services"
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.springframework:spring-beans
+  description: Spring Beans
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.springframework:spring-context
+  description: Spring Context
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.springframework:spring-core
+  description: Spring Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.springframework:spring-expression
+  description: Spring Expression Language
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2021-09-28 08:06:59.000000000 Z
+- name: org.springframework:spring-oxm
+  description: Spring Object/XML Marshalling
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.springframework:spring-tx
+  description: Spring Transaction
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.springframework:spring-web
+  description: Spring Web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.springframework:spring-webflux
+  description: Spring WebFlux
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.springframework:spring-webmvc
+  description: Spring Web MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: org.threeten:threetenbp
+  description: Backport of JSR-310 from JDK 8 to JDK 7 and JDK 6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Mark Paluch
+  last_updated_on: 2021-09-20 07:38:08.000000000 Z
+- name: xmlunit:xmlunit
+  description: XMLUnit compares a control XML document to a test document or the result
+    of a transformation
+  version: '1.6'
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/spring-data-commons/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Christoph Strobl
+  last_updated_on: 2020-01-13 13:01:58.000000000 Z
